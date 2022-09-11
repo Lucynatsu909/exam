@@ -38,6 +38,7 @@ nav ul li a{
 .center{ 
     border: 1px solid black; 
     border-collapse: collapse;
+    padding: 0 10%;
     width: 50%;
     text-align: center; 
 }
